@@ -13,6 +13,7 @@ def steps(x,y,z):
     t.right(90)
     t.forward(z)
     t.left(90)
+    
 
   turtle.getscreen()._root.mainloop()
 steps(5, 100, 50)
